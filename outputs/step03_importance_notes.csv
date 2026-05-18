@@ -1,0 +1,3 @@
+model,note
+gradient_boosting_survival,Not run in the default Step 03 because it was too slow on the full dataset in the local environment. Keep it as an optional extension after the report baseline is stable.
+random_survival_forest,Permutation importance skipped in the default pipeline because it is slow and disk-intensive on this dataset. Use Cox hazard ratios and Coxnet permutation importance for the first explainability report.

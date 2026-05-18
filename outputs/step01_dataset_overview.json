@@ -1,0 +1,9 @@
+{
+  "n_rows": 31369,
+  "n_subjects": 31369,
+  "n_admissions": 31369,
+  "n_columns": 39,
+  "n_events_90d": 4900,
+  "event_rate_90d": 0.15620517070993656,
+  "median_followup_days": 90.0
+}

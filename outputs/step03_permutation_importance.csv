@@ -1,0 +1,42 @@
+model,feature,importance_mean,importance_std
+coxnet,anchor_age,0.14191857249356707,0.020369134916965487
+coxnet,cci_without_hf,0.08136858812495489,0.014396421268468582
+coxnet,diabetes_with_cc,0.004163961234158149,0.0005078688906991767
+coxnet,race_simple_UNKNOWN,0.0020477118053050156,0.0011583701586846294
+coxnet,marital_status_UNKNOWN,0.00042565471466700827,0.0007789028820218971
+coxnet,admission_type_URGENT,0.00020200562729958774,0.00031580723622880115
+coxnet,gender_male,0.0,0.0
+coxnet,myocardial_infarct,0.0,0.0
+coxnet,peripheral_vascular_disease,0.0,0.0
+coxnet,cerebrovascular_disease,0.0,0.0
+coxnet,dementia,0.0,0.0
+coxnet,chronic_pulmonary_disease,0.0,0.0
+coxnet,rheumatic_disease,0.0,0.0
+coxnet,peptic_ulcer_disease,0.0,0.0
+coxnet,mild_liver_disease,0.0,0.0
+coxnet,diabetes_without_cc,0.0,0.0
+coxnet,paraplegia,0.0,0.0
+coxnet,renal_disease,0.0,0.0
+coxnet,malignant_cancer,0.0,0.0
+coxnet,severe_liver_disease,0.0,0.0
+coxnet,metastatic_solid_tumor,0.0,0.0
+coxnet,aids,0.0,0.0
+coxnet,admission_type_DIRECT EMER.,0.0,0.0
+coxnet,admission_type_DIRECT OBSERVATION,0.0,0.0
+coxnet,admission_type_ELECTIVE,0.0,0.0
+coxnet,admission_type_EU OBSERVATION,0.0,0.0
+coxnet,admission_type_EW EMER.,0.0,0.0
+coxnet,admission_type_OBSERVATION ADMIT,0.0,0.0
+coxnet,admission_type_SURGICAL SAME DAY ADMISSION,0.0,0.0
+coxnet,insurance_Medicare,0.0,0.0
+coxnet,insurance_No charge,0.0,0.0
+coxnet,insurance_Other,0.0,0.0
+coxnet,insurance_Private,0.0,0.0
+coxnet,insurance_UNKNOWN,0.0,0.0
+coxnet,race_simple_BLACK,0.0,0.0
+coxnet,race_simple_HISPANIC/LATINO,0.0,0.0
+coxnet,race_simple_OTHER,0.0,0.0
+coxnet,race_simple_WHITE,0.0,0.0
+coxnet,marital_status_MARRIED,0.0,0.0
+coxnet,marital_status_SINGLE,0.0,0.0
+coxnet,marital_status_WIDOWED,0.0,0.0

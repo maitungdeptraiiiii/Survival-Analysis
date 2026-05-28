@@ -133,6 +133,24 @@ Mục tiêu:
 - Kiểm tra calibration của predicted 90-day risk.
 - Tính fixed-horizon binary ROC AUC tại 7, 14, 30, 60, và 90 ngày cho early mortality.
 
+## Kết quả trực quan
+
+### Forest plot top hazard ratios
+
+![Forest plot top Cox hazard ratios](outputs/plots/step04_forest_plot_top20_cox.png)
+
+### Kaplan-Meier theo nhóm nguy cơ dự đoán
+
+![Kaplan-Meier by predicted risk group](outputs/plots/step04_km_by_predicted_risk_group.png)
+
+### Calibration 90 ngày
+
+![90-day calibration plot](outputs/plots/step04_calibration_90d.png)
+
+### Fixed-horizon AUC
+
+![Fixed-horizon binary ROC AUC](outputs/plots/step04_binary_auc_by_horizon.png)
+
 ### Step 05 - Final project summary
 
 ```powershell

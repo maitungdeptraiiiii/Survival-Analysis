@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+lifelines>=0.28
+scikit-learn>=1.4
+scikit-survival>=0.23
+shap>=0.45

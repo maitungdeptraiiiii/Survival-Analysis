@@ -1,0 +1,6 @@
+feature_set,model,test_concordance_index,n_features,n_rows_used,status,error
+vitals_labs_24h,random_survival_forest,0.8195894685737108,398,30000,ok,
+full_all_features,random_survival_forest,0.8175180127188348,400,30000,ok,
+labs_24h,random_survival_forest,0.8162062432467629,270,30000,ok,
+vitals_24h,random_survival_forest,0.7631679608725005,190,30000,ok,
+demographics_icu,random_survival_forest,0.7421280481857597,62,30000,ok,

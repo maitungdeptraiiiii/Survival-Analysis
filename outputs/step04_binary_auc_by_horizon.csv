@@ -1,0 +1,6 @@
+model,horizon_days,binary_roc_auc,n_events_by_horizon,n_nonevents_by_horizon,note
+random_survival_forest,7.0,0.8872834532374101,550,6950,Fixed-horizon discrimination metric for early mortality. Used instead of IPCW time-dependent AUC because this dataset is administratively censored at 90 days.
+random_survival_forest,14.0,0.8722955476364781,788,6712,Fixed-horizon discrimination metric for early mortality. Used instead of IPCW time-dependent AUC because this dataset is administratively censored at 90 days.
+random_survival_forest,30.0,0.8580135112929453,1021,6479,Fixed-horizon discrimination metric for early mortality. Used instead of IPCW time-dependent AUC because this dataset is administratively censored at 90 days.
+random_survival_forest,60.0,0.8423779951879773,1227,6273,Fixed-horizon discrimination metric for early mortality. Used instead of IPCW time-dependent AUC because this dataset is administratively censored at 90 days.
+random_survival_forest,90.0,0.8334139505786071,1344,6156,Fixed-horizon discrimination metric for early mortality. Used instead of IPCW time-dependent AUC because this dataset is administratively censored at 90 days.

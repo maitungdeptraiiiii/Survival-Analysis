@@ -1,0 +1,5 @@
+model,test_concordance_index,status,error,n_rows_used,n_features
+random_survival_forest,0.8175180127188348,ok,,30000,400
+extra_survival_trees,0.8106843225730167,ok,,30000,400
+gradient_boosting_survival,0.7218797524671281,ok,,30000,400
+coxnet,0.7181305241683472,ok,,30000,400
